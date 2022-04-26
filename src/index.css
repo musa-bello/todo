@@ -1,0 +1,16 @@
+html,
+body,
+:global(#root) {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+input[type="checkbox"] {
+  /* opacity: 0; */
+  /* position: absolute; */
+}
+
+.checkbox {
+  background: gold;
+}
